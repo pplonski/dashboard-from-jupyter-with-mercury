@@ -1,0 +1,5 @@
+mljar-mercury
+pandas
+numpy
+matplotlib
+folium
