@@ -3,8 +3,3 @@ pandas
 numpy
 matplotlib
 folium
-opencv-python
-pillow
-tensorflow-cpu
-tensorflow_hub
-tflite-runtime
