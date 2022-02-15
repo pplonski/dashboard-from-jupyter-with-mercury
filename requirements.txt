@@ -3,5 +3,3 @@ pandas
 numpy
 matplotlib
 folium
-torchvision
-torchfile
