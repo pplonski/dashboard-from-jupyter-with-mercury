@@ -5,7 +5,7 @@ Create Interactive Dashboard fron Jupyter Notebook with Mercury
 
 ## Article with step-by-step tutorial
 
-You can find the aarticle with description for this repo on [TDS](https://towardsdatascience.com/interactive-dashboard-from-jupyter-notebook-with-mercury-framework-e1269fdbe73c).
+You can find the article with description for this repo on [TDS](https://towardsdatascience.com/interactive-dashboard-from-jupyter-notebook-with-mercury-framework-e1269fdbe73c).
 
 ## Easy Deployment
 
