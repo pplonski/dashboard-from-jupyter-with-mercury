@@ -3,6 +3,10 @@ Create Interactive Dashboard fron Jupyter Notebook with Mercury
 
 ![image](https://user-images.githubusercontent.com/36753484/153706791-9e9d72dd-d5bb-4508-ac1f-463c041ad0bf.png)
 
+## Article with step-by-step tutorial
+
+You can find the aarticle with description for this repo on [TDS](https://towardsdatascience.com/interactive-dashboard-from-jupyter-notebook-with-mercury-framework-e1269fdbe73c).
+
 ## Easy Deployment
 
 - Fork the repository 
